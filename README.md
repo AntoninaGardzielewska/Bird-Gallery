@@ -24,7 +24,6 @@ A minimal React app scaffolded to work with Vite. This small demo shows a basic 
 1. Install dependencies
 
 ```bash
-cd Simple-React-App
 npm install
 ```
 
